@@ -1,1 +1,2 @@
-$(' #text').show();
+
+  $(' #text').show();

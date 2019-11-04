@@ -1,0 +1,15 @@
+#text{
+  font-size: 12px;
+  background-color: #96671D;
+  color:#F4D1BC;
+  box-shadow: 10px 10px 10px 10px #F4D1BC ;
+
+}
+#image{
+float:left;
+height: 100px;
+width: 10%;
+margin-right:10px;
+margin-left: 10px;
+border-top-left-radius:10px;
+}
